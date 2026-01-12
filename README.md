@@ -25,7 +25,7 @@ This repository features a collection of high-precision 3D CAD models designed i
 
 #### Lead Acid Battery - 12V 9Ah - DESA Battery
 <p align="center">
-  <img src="main/assets/Battery-DS12-9(12V-9AH).png" width="500"/>
+  <img src="SolidWorks-Portfolio/assets/Battery-DS12-9(12V-9AH).png" width="500"/>
 </p>
 
 ---
