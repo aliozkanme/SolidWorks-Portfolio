@@ -1,0 +1,14 @@
+# SolidWorks temporary files
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+*.swp
+*.bak
+
+# Auto-recovery files
+*.SLDPRT-autorecovery
+*.SLDASM-autorecovery
+*.SLDDRW-autorecovery
+
+# Windows thumbnail files
+Thumbs.db
