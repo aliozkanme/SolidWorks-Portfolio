@@ -6,6 +6,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey?style=flat-square&logo=creative-commons" alt="Creative Commons">
+  <img src="https://img.shields.io/badge/Software-SolidWorks-D32D2C?style=flat-square&logo=solidworks&logoColor=white" alt="SolidWorks">
+  <img src="https://img.shields.io/badge/Field-Electromechanical_Design-blueviolet?style=flat-square" alt="Electromechanical Design">
+  <img src="https://img.shields.io/badge/Focus-Design_for_Manufacturing_(DfM)-success?style=flat-square" alt="Design for Manufacturing">
   <img src="https://img.shields.io/github/last-commit/aliozkanme/SolidWorks-Portfolio" alt="last commit"/> 
 </p>
 
