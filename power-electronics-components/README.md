@@ -3,9 +3,6 @@
 ---
 ## Introduction
 As an experienced Electrical-Electronics Engineer, I combine my technical domain knowledge with strong SolidWorks skills. I focus on creating accurate 3D representations of power electronics components by strictly adhering to manufacturer datasheets, bridging the gap between electrical specifications and mechanical design.
-
-
-## What this repo contains?
 This repository features a collection of high-precision 3D CAD models designed in SolidWorks. Each model is engineered from scratch based on official manufacturer datasheets to serve as reliable assets for power electronics simulation and mechanical integration projects.
 
 ---
